@@ -1,4 +1,4 @@
-# xray — Hardware, Firmware, BLE & Mobile Reverse Engineering
+# XRAY — Hardware, Firmware, BLE & Mobile Reverse Engineering
 
 AI Agent Skill for **Antigravity**, **Claude Code**, and **OpenAI Codex**. Evidence-first reverse engineering playbook combining APK decompilation (JADX/apktool), Frida SSL unpinning, BLE packet protocol analysis, binary firmware/watchface mapping, and Android/Linux debugging.
 
@@ -10,13 +10,13 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/xray` | `.agents/skills/xray` |
-| **Claude Code** | `~/.claude/skills/xray` | `.claude/skills/xray` |
-| **OpenAI Codex** | `~/.codex/skills/xray` | `.agents/skills/xray` |
+| **Antigravity** | `~/.gemini/config/skills/XRAY` | `.agents/skills/XRAY` |
+| **Claude Code** | `~/.claude/skills/XRAY` | `.claude/skills/XRAY` |
+| **OpenAI Codex** | `~/.codex/skills/XRAY` | `.agents/skills/XRAY` |
 
 ```bash
 # Example (Antigravity / Claude Code / Codex — pick your path):
-git clone https://github.com/triwahyu45/xray.git ~/.claude/skills/xray
+git clone https://github.com/triwahyu45/XRAY.git ~/.claude/skills/XRAY
 ```
 
 ---

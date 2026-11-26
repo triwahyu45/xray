@@ -1,5 +1,5 @@
 ---
-name: xray
+name: XRAY
 description: Hardware, Firmware, Wearable & Mobile Reverse Engineering suite combining evidence-first REA methodology with APK decompilation (JADX/apktool), Frida SSL unpinning, BLE packet protocol analysis, binary watchface/firmware mapping, and Android/Linux device debugging.
 ---
 
