@@ -10,7 +10,7 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/XRAY` | `.agents/skills/XRAY` |
+| **Antigravity** | Global Antigravity skills dir | `.agents/skills/XRAY` |
 | **Claude Code** | `~/.claude/skills/XRAY` | `.claude/skills/XRAY` |
 | **OpenAI Codex** | `~/.codex/skills/XRAY` | `.agents/skills/XRAY` |
 
