@@ -20,3 +20,10 @@ Evidence-first reverse engineering playbook for Android apps, BLE wearables, bin
 ## Reference Module
 
 - **Mobile, BLE & Binary Firmware Playbook**: [`references/mobile-and-ble-re.md`](references/mobile-and-ble-re.md)
+---
+
+## Mandatory Self-Audit & Revise-Before-Delivery Gate
+
+Before delivering any RE parser, patch, or protocol reconstruction:
+1. Prove custom encoders/parsers with a byte-for-byte roundtrip test (`decode -> encode == original_bytes`) on an unmodified sample.
+2. Verify Frida/ADB/BLE behavior on live captures/logs and label any unverified inference explicitly.
