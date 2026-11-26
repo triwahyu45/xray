@@ -5,7 +5,7 @@ description: Hardware, Firmware, Wearable & Mobile Reverse Engineering suite com
 
 # Xray — Hardware, Firmware & Mobile Reverse Engineering
 
-Evidence-first reverse engineering playbook for Android apps, BLE wearables, binary firmware/watchfaces, and embedded Linux devices.
+Evidence-first reverse engineering playbook for **Hardware, Firmware, BLE wearables, binary watchfaces, and Mobile APK/Frida targets** (for pure Desktop/Electron/JavaScript/AgentEnv reconstruction, use the `rea` MCP workflow directly).
 
 ---
 
